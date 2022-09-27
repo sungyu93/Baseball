@@ -1,1 +1,0 @@
-package site.metacoding.baseball.web.dto.request;
